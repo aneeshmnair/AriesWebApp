@@ -76,6 +76,7 @@ $sudo apt-get install -y {library}
 
 
 
-*Steps For Demo*
+# Steps For Demo
 
+Below are the steps to spin up a ledger and run agents for the demo
 
